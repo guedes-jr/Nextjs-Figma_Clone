@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <img src="../clone_figma/public/assets/readme/banner.png" alt="Project Banner">
+    <img src="https://github.com/guedes-jr/Nextjs-Figma_Clone/blob/main/public/assets/readme/banner.png" alt="Project Banner">
   <br />
 
   <div>
